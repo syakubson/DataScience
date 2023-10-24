@@ -1,6 +1,6 @@
 Оригинал взят отсюда:
-https://www.youtube.com/watch?v=NokwvS3eMk4
-https://youtu.be/fyQ6vk2AeXE
+- https://www.youtube.com/watch?v=NokwvS3eMk4
+- https://youtu.be/fyQ6vk2AeXE
 
 Полезныe ссылки:
 - [pyTorch tutorial](https://pytorch.org/tutorials/) - Официальный туториал `pyTorch`;  
